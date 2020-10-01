@@ -40,3 +40,5 @@ PACKAGES+=" valac"
 apt update
 apt dist-upgrade -y
 apt install -y $PACKAGES
+clear
+ls
